@@ -28,17 +28,14 @@
 
 ---
 
-## 🎨 Design Principles & Patterns
+## 🎨 Design Principles & Patterns [https://refactoring.guru]
 
 - Domain-Driven Design (DDD)
-- SOLID Principles
+- SOLID Principles 
 - Functional Programming
 - Dependency Injection (DI)
 - Inversion of Control (IoC)
-- Factory Pattern
-- Repository Pattern
-- Strategy Pattern
-- Singleton Pattern
+- Factory, Strategy, Pipeline, Repository Pattern
 - Design Patterns: DRY, KISS
 
 📚 **Recommended Reading**: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Uncle Bob
