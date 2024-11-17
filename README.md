@@ -14,6 +14,17 @@ Welcome to my GitHub profile! I'm a software engineer passionate about creating 
 
 ---
 
+## 🎨 Design Principles & Patterns
+
+- Domain-Driven Design (DDD)
+- SOLID Principles
+- Functional Programming
+- Dependency Injection (DI)
+- Inversion of Control (IoC)
+- Strategy Pattern
+
+---
+
 ## 🌱 Currently Learning
 
 <p align="left">
@@ -32,7 +43,6 @@ Welcome to my GitHub profile! I'm a software engineer passionate about creating 
 
 ## 📫 Let's Connect!
 
-- **Email**: [del.coker@gmail.com](mailto:del.coker@gmail.com)
 - **LinkedIn**: [linkedin.com/in/delcoker](https://linkedin.com/in/delcoker)
 - **Portfolio**: [delcoker.dev](https://delcoker.dev)
 
@@ -49,5 +59,3 @@ Welcome to my GitHub profile! I'm a software engineer passionate about creating 
 ### 💡 Fun Fact
 
 I enjoy diving into clean code principles and exploring the latest advancements in technology to stay inspired and innovative.
-
----
