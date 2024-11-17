@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Kingston
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=As+a+software+developer+passionate;+about+creating+scalable,+efficient,;and+user-friendly+solutions,I+thrive;+on+solving+challenging+problems+;designing+clean+architectures,;+and+staying+on+the+cutting+edge+of;+TECHNOLOGY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=As+a+software+developer+passionate;+about+creating+scalable,+efficient,;and+user-friendly+solutions,+I;thrive+on+solving+complex+problems+;designing+clean+architectures,;+while+staying+on+the+cutting+edge+of;+TECHNOLOGY)](https://git.io/typing-svg)
 
 
 ## ✨ Secret Sauce
